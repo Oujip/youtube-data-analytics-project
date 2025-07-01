@@ -26,15 +26,23 @@ This project explores personal YouTube data to uncover viewing patterns, behavio
 - **Database**: SQLite (option to migrate to PostgreSQL)  
 - **Visualisation**: Power BI  
 
-## 🗂️ Project Structure (simplified)
+## 🗂️ Project Structure
 
-/YouTube-Data-Analytics-Project/
-├── Data/              # Raw and cleaned datasets
-├── Scripts/           # Python scripts for parsing and cleaning JSON data
-├── Notebooks/         # Jupyter notebooks for data exploration
-├── SQL/               # Database schema and analysis queries
-├── Dashboards/        # Power BI dashboards and screenshots
-└── README.md          # Project overview and documentation
+YouTube-Data-Analytics-Project/
+├── Data/
+│   ├── Raw/
+│   └── Cleaned/
+├── Scripts/
+│   ├── parse_search_history_json.py
+│   └── parse_watch_history_json.py
+├── Notebooks/
+│   └── Youtube_cleaning.ipynb
+├── SQL/
+│   ├── schema.sql
+│   └── analysis_queries.sql
+├── Dashboards/
+│   └── powerbi_screenshots.png
+└── README.md
 
 ## 🔐 Privacy Statement
 
