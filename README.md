@@ -28,13 +28,13 @@ This project explores personal YouTube data to uncover viewing patterns, behavio
 
 ## 🗂️ Project Structure
 
-YouTube-Data-Analytics-Project/
-├── Data/          # Raw and cleaned datasets
-├── Scripts/       # Python scripts for parsing and cleaning
-├── Notebooks/     # Jupyter notebooks for exploration
-├── SQL/           # Database schema and queries
-├── Dashboards/    # Power BI visuals and exports
-└── README.md      # Project overview and documentation
+- YouTube-Data-Analytics-Project/
+- Data/          # Raw and cleaned datasets
+- Scripts/       # Python scripts for parsing and cleaning
+- Notebooks/     # Jupyter notebooks for exploration
+- SQL/           # Database schema and queries
+- Dashboards/    # Power BI visuals and exports
+- README.md      # Project overview and documentation
 
 ## 🔐 Privacy Statement
 
