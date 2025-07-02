@@ -26,7 +26,7 @@ This project explores personal YouTube data to uncover viewing patterns, behavio
 - **Database**: SQLite (option to migrate to PostgreSQL)  
 - **Visualisation**: Power BI  
 
-## 🗂️ Project Structure
+## 🗂️ Project Structure (simplified)
 
 YouTube-Data-Analytics-Project/
 │
